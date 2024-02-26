@@ -6,7 +6,10 @@ A python aplication for upload videos to vk.
 
 •Python 3  
 - install packages in requirements.txt using pip.
+ ````
+pip3 install -r requirements.txt
 
+````
 ## Usage
 
 Interface  
