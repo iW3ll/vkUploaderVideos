@@ -24,9 +24,13 @@ Interface
 
 ``In video_file_path = r'your file path or folder path'``
 
+``playlist_id = 1`` change according to the playlist you want to upload
+
+
 ## Run 
 ````
 python3 vkUploader.py
 
 ````
+
 
