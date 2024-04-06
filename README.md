@@ -4,7 +4,9 @@ A python aplication for upload videos to vk.
 
 ## Requirements
 
-•Python 3  
+• Python 3  
+• vk_api
+
 - install packages in requirements.txt using pip.
  ````
 pip3 install -r requirements.txt
